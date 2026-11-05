@@ -2,7 +2,7 @@ defmodule FlashpointEx.MixProject do
   use Mix.Project
 
   @version "0.1.0"
-  @source_url "https://github.com/yourusername/flashpoint_ex"
+  @source_url "https://github.com/osintowl/flashpoint_ex"
 
   def project do
     [

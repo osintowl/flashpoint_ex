@@ -27,4 +27,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Comprehensive error handling
 - Full type specs
 
-[0.1.0]: https://github.com/yourusername/flashpoint_ex/releases/tag/v0.1.0
+[0.1.0]: https://github.com/osintowl/flashpoint_ex/releases/tag/v0.1.0
